@@ -1,0 +1,32 @@
+{
+  "non-private": {
+    "attack_auc": 0.57784375,
+    "std_error": 0.010516004755932059,
+    "nonmember_accuracy": 0.7190000000000001
+  },
+  "dp noise 0.0": {
+    "attack_auc": 0.5747875,
+    "std_error": 0.009316768300012747,
+    "nonmember_accuracy": 0.7985
+  },
+  "dp noise 1.0": {
+    "attack_auc": 0.5717125,
+    "std_error": 0.009494137725352377,
+    "nonmember_accuracy": 0.7994999999999999
+  },
+  "dp noise 2.0": {
+    "attack_auc": 0.5693125000000001,
+    "std_error": 0.009432295158882897,
+    "nonmember_accuracy": 0.782
+  },
+  "dp noise 5.0": {
+    "attack_auc": 0.5710125,
+    "std_error": 0.008751200537174127,
+    "nonmember_accuracy": 0.7129999999999999
+  },
+  "dp noise 10.0": {
+    "attack_auc": 0.548275,
+    "std_error": 0.00863692997026284,
+    "nonmember_accuracy": 0.6859999999999999
+  }
+}

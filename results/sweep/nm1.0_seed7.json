@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.85,
+  "auc": 0.9508928571428571,
+  "max_diff_vs_plain_average": 1.260163914773571e-06,
+  "rounds": 20,
+  "noise_multiplier": 1.0,
+  "clip_norm": 1.0,
+  "mlkem_variant": "ML-KEM-768",
+  "validation_nodes": 3,
+  "bytes_transmitted": 221040,
+  "seconds": 1.8,
+  "epsilon": 41.32,
+  "delta": 1e-05,
+  "tee_enabled": false
+}

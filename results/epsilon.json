@@ -1,0 +1,106 @@
+{
+  "1.0": {
+    "worst_hospital_epsilon": 41.32,
+    "hospitals": [
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 41.32,
+        "best_alpha": 2
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 41.32,
+        "best_alpha": 2
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 41.32,
+        "best_alpha": 2
+      }
+    ]
+  },
+  "2.0": {
+    "worst_hospital_epsilon": 14.53,
+    "hospitals": [
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 14.53,
+        "best_alpha": 3
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 14.53,
+        "best_alpha": 3
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 14.53,
+        "best_alpha": 3
+      }
+    ]
+  },
+  "5.0": {
+    "worst_hospital_epsilon": 4.8,
+    "hospitals": [
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 4.8,
+        "best_alpha": 6
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 4.8,
+        "best_alpha": 6
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 4.8,
+        "best_alpha": 6
+      }
+    ]
+  },
+  "10.0": {
+    "worst_hospital_epsilon": 2.26,
+    "hospitals": [
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 2.26,
+        "best_alpha": 12
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 2.26,
+        "best_alpha": 12
+      },
+      {
+        "n": 79,
+        "q": 0.405,
+        "steps": 120,
+        "epsilon": 2.26,
+        "best_alpha": 12
+      }
+    ]
+  }
+}
